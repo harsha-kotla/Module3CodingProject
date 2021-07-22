@@ -17,7 +17,7 @@ body {
 
 }
 
-#body h4, h2 {
+#body h3, h2 {
   text-align: center;
 }
 h2 {
@@ -75,23 +75,6 @@ h2 {
   margin-top: -30px;
 }
 /* END FOOTER */
-@media (min-width: 1200px) {
-
-}
-/********** Medium devices only **********/
-@media (min-width: 992px) and (max-width: 1199px) {
-  /* Header */
-
-  /* End Header */
-
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  /* Header */
-
-  /* End Header */
-
-}
 
 /********** Extra small devices only **********/
 @media (max-width: 767px) {
