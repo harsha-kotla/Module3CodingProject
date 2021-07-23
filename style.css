@@ -19,10 +19,9 @@ body {
 
 #body h3, h2 {
   text-align: center;
+  margin: 10px;
 }
-h2 {
-  margin: 20px;
-}
+
 .navbar-brand {
   padding-top: 25px;
   padding-bottom: 25px;
