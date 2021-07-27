@@ -4,6 +4,9 @@ body {
   font-weight: 400;
   font-family: Times New Roman;
 }
+.col-md-12 h3 {
+  margin-top: 10px;
+}
 #chicken, #beef, #turkey {
   background-color: lightgray;
   margin: 2px;
